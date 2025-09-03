@@ -45,5 +45,5 @@ Alineación de los controles: Los botones de acción, como disparar o defender, 
 
 **Capturas de Pantalla:**
 https://drive.google.com/file/d/1yKLckOHox4Z22KZwsU2UJJlPnJOMl7ty/view?usp=sharing   Captura 1
-https://drive.google.com/file/d/1JUtOkI8HZi_E2bh8ahKIRyL9STw3nUZS/view?usp=sharing   Captura 2
+https://drive.google.com/file/d/1JUtOkI8HZi_E2bh8ahKIRyL9STw3nUZS/view?usp=sharing  Captura 2
 
